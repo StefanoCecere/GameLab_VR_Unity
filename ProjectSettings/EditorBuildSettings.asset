@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/_scenes/VR-Starter-Scene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/_scenes/stefano/stefano.unity
+    guid: d2aa012aa136a4e29abbd51502975fbe
   - enabled: 0
     path: Assets/_scenes/XRI_FullExamples.unity
     guid: fd22edbaf7386472c861581dc011a029
